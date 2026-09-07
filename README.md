@@ -8,9 +8,15 @@ The system combines data preprocessing, exploratory data analysis, feature engin
 *Objectives*
 
 1.Overall Performance Prediction: Forecast team performance and expected scoring outcomes using historical match statistics.
+
 2.Map-Specific Analysis: Evaluate team performance across individual maps and identify map-specific strengths and weaknesses.
+
 3.Top-5 Prediction: Develop classification models to estimate the probability of teams finishing within the Top 5.
+
 4.Survival Performance Analysis: Identify teams with consistently strong placement and survival-oriented performance.
+
 5.Elimination Performance Analysis: Identify and predict teams with superior elimination capabilities.
+
 6.Consistency & Form Analysis: Measure performance stability using metrics such as average points, placement, eliminations, variance, and recent form.
+
 7.Comparative Team Analytics: Rank and compare teams using multiple performance indicators rather than total points alone.
