@@ -22,10 +22,18 @@ The system combines data preprocessing, exploratory data analysis, feature engin
 7.Comparative Team Analytics: Rank and compare teams using multiple performance indicators rather than total points alone.
 
 **Expected Outcomes**
+
 Predicting future team performance
+
 Identifying high-performing and high-potential teams
+
 Estimating Top-5 qualification probabilities
+
 Identifying leading survival and elimination teams
+
 Detecting map-specific performance patterns
+
 Quantifying team consistency and recent form
+
 Providing data-driven insights for competitive esports analysis
+
