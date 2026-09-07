@@ -6,6 +6,7 @@ Meta Masters is a data-driven machine learning system for esports performance an
 The system combines data preprocessing, exploratory data analysis, feature engineering, statistical analysis, and supervised machine learning to transform raw match data into actionable performance insights.
 
 **Objectives**
+
 1.Overall Performance Prediction: Forecast team performance and expected scoring outcomes using historical match statistics.
 
 2.Map-Specific Analysis: Evaluate team performance across individual maps and identify map-specific strengths and weaknesses.
@@ -21,10 +22,10 @@ The system combines data preprocessing, exploratory data analysis, feature engin
 7.Comparative Team Analytics: Rank and compare teams using multiple performance indicators rather than total points alone.
 
 **Expected Outcomes**
-    Predicting future team performance
-    Identifying high-performing and high-potential teams
-    Estimating Top-5 qualification probabilities
-    Identifying leading survival and elimination teams
-    Detecting map-specific performance patterns
-    Quantifying team consistency and recent form
-    Providing data-driven insights for competitive esports analysis
+Predicting future team performance
+Identifying high-performing and high-potential teams
+Estimating Top-5 qualification probabilities
+Identifying leading survival and elimination teams
+Detecting map-specific performance patterns
+Quantifying team consistency and recent form
+Providing data-driven insights for competitive esports analysis
