@@ -1,6 +1,7 @@
 # Meta-Masters
 
 *Project Description*
+
 Meta Masters is a data-driven machine learning system for esports performance analysis and predictive modeling. The project leverages historical match-level statistics to identify performance patterns, evaluate team consistency, analyze map-specific strengths, and predict future competitive outcomes.
 
 The system combines data preprocessing, exploratory data analysis, feature engineering, statistical analysis, and supervised machine learning to transform raw match data into actionable performance insights.
